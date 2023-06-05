@@ -1,0 +1,1 @@
+export const BASIC_API = `https://fakestoreapi.com/products`;
